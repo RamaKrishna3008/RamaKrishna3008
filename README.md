@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on **Any Sprinboot Related Projects**
+- 👯 I’m looking to collaborate on **Any Springboot Related Projects**
 
 - 👨‍💻 All of my projects are available at [https://sivaramakrishna.live/](https://sivaramakrishna.live/)
 
