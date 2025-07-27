@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandalaneni Sai Balaji Siva Rama Krishna</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-- 🔭 I’m currently working on [ECommerce](https://github.com/RamaKrishna3008/Ecommerce_JSP)
+- 🔭 I’m currently working on [MovieTicketBookingPlatform](https://github.com/RamaKrishna3008/MovieTicketBookingPlatform)
 
 - 🌱 I’m currently learning **MongoDB**
 
